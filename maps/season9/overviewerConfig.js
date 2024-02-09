@@ -10,10 +10,10 @@ var overviewerConfig = {
             "queryMarker": "markers/marker_location.png",
             "queryMarker2x": "markers/marker_location_2x.png",
             "compass": {
-                "0": "compass_upper-left.png",
-                "1": "compass_upper-right.png",
-                "3": "compass_lower-left.png",
-                "2": "compass_lower-right.png"
+                "0": "logo.png",
+                "1": "logo.png",
+                "3": "logo.png",
+                "2": "logo.png"
             }
         },
         "mapDivId": "mcmap",
